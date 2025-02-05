@@ -5,4 +5,4 @@ requirements
 3. my sql server
 4. java jdk 5 and above
 5. heidi sql for database
-if any queries contact harshadoijode4@gmail.com
+if any queries contact shreyasatyanayak@gmail.com
